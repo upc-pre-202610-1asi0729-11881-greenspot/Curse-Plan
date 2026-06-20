@@ -113,7 +113,7 @@ public class HolaMundo {
 
 🔗 [Ver la lección](https://youtu.be/w6tUV70jxso) | [Practicar en JDoodle](https://www.jdoodle.com/online-java-compiler) ← ¡Sin registro!
 
-📖 **[Más información y ejemplos detallados sobre la Lección 1 →](./Lessons/L1.md)**
+📖 **[Más información y ejemplos detallados sobre la Lección 1 →](https://github.com/upc-pre-202610-1asi0729-11881-greenspot/Curse-Plan/blob/main/Lessons/L1.md)**
  
 ---
 #### Lección 2 — Variables y Tipos de Datos (8 min)
@@ -149,7 +149,7 @@ System.out.println("Vida: " + vida);
 
 🔗 [Ver la lección](https://youtu.be/DBz1fR87GXE) | [Practicar en JDoodle](https://www.jdoodle.com/online-java-compiler) ← ¡Sin registro!
 
-📖 **[Más información, analogías y errores comunes de la Lección 2 →](./Lessons/L2.md)**
+📖 **[Más información, analogías y errores comunes de la Lección 2 →](https://github.com/upc-pre-202610-1asi0729-11881-greenspot/Curse-Plan/blob/main/Lessons/L2.md)**
  
 ---
 #### Lección 3 — Estructuras de Control (10 min)
@@ -202,7 +202,7 @@ El `&&` significa "y": ambas condiciones deben cumplirse para que el bucle conti
 
 🔗 [Ver la lección](https://youtu.be/aAPqCw0Gck0) | [Practicar en JDoodle](https://jdoodle.com/execute-java-online/) ← ¡Sin registro!
 
-📖 **[Más información, ejemplos y errores comunes de la Lección 3 →](./Lessons/L3.md)**
+📖 **[Más información, ejemplos y errores comunes de la Lección 3 →](https://github.com/upc-pre-202610-1asi0729-11881-greenspot/Curse-Plan/blob/main/Lessons/L3.md)**
 
 #### Lección 4 — Métodos, Entrada/Salida e Introducción a la POO (12 min)
 **¿Qué es un método?**
@@ -279,7 +279,7 @@ class Personaje {
 
 🔗 [Ver la lección](https://www.youtube.com/watch?v=UMF17QsrqZk) | [Practicar en OnlineGDB](https://onlinegdb.com/your-gdb-id) ← ¡Sin registro!
 
-📖 **[Más información, ejemplos y errores comunes de la Lección 4 →](./Lessons/L4.md)**
+📖 **[Más información, ejemplos y errores comunes de la Lección 4 →](https://github.com/upc-pre-202610-1asi0729-11881-greenspot/Curse-Plan/blob/main/Lessons/L4.md)**
 
 ## Lección 5 — Fundamentos de POO y el Juego Completo *(15 min)*
 
@@ -355,6 +355,8 @@ Personaje enemigo = new DragonOscuro();
 - `abstract` define métodos obligatorios
 - `@Override` permite polimorfismo
 > 🔗 [Ver la lección](https://www.youtube.com/watch?v=oDlQt8go1Qo) | [Proyecto final en Replit](https://replit.com/@your-final-java) ← ¡Guarda y comparte!
+
+📖 **[Más información, Fundamentos de POO de la Lección 5 →](https://github.com/upc-pre-202610-1asi0729-11881-greenspot/Curse-Plan/blob/main/Lessons/L5.md)**
 
 ## Lección 6 — Consejos y Próximos Pasos *(10 min)*
 
