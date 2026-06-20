@@ -448,11 +448,11 @@ Cada lección tiene asociada una actividad práctica en línea. La participació
 
 | Lección | Actividad | Plataforma | Nota |
 |:---:|---|---|---|
-| 1 | Hola Mundo en Java | Replit | Sin registro |
-| 2 | Variables del personaje | Replit | Sin registro |
+| 1 | Hola Mundo en Java | JDoodle | Sin registro |
+| 2 | Variables del personaje | JDoodle | Sin registro |
 | 3 | Bucles y condiciones | JDoodle | Sin registro |
-| 4 | Métodos y entrada del usuario | OnlineGDB | Sin registro |
-| 5 | Programa POO — Clase Personaje | Replit | Opcional (guardar/compartir) |
+| 4 | Métodos y entrada del usuario | JDoodle | Sin registro |
+| 5 | Programa POO — Clase Personaje | JDoodle | Opcional (guardar/compartir) |
 | Final | Cuestionario de conocimientos | Google Forms | Enlace en el README |
 
 🔗 [Cuestionario de conocimientos](https://forms.gle/Y65vT5cvHFw1QdYq7) | Comparte tu trabajo con **#JavaBeginners**
