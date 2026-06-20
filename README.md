@@ -277,7 +277,7 @@ class Personaje {
 
 > *Conclusiones clave: `static void atacar(...) {}` define un método | `scanner.nextLine()` lee lo que escribe el jugador | `.equals()` para comparar Strings | `class Personaje {}` es el primer paso hacia la POO*
 
-🔗 [Ver la lección](https://www.youtube.com/watch?v=example-link4) | [Practicar en OnlineGDB](https://onlinegdb.com/your-gdb-id) ← ¡Sin registro!
+🔗 [Ver la lección](https://www.youtube.com/watch?v=UMF17QsrqZk) | [Practicar en OnlineGDB](https://onlinegdb.com/your-gdb-id) ← ¡Sin registro!
 
 📖 **[Más información, ejemplos y errores comunes de la Lección 4 →](./Lessons/L4.md)**
 
@@ -354,7 +354,7 @@ Personaje enemigo = new DragonOscuro();
 - `extends` aplica herencia
 - `abstract` define métodos obligatorios
 - `@Override` permite polimorfismo
-> 🔗 [Ver la lección](https://www.youtube.com/watch?v=example-link5) | [Proyecto final en Replit](https://replit.com/@your-final-java) ← ¡Guarda y comparte!
+> 🔗 [Ver la lección](https://www.youtube.com/watch?v=oDlQt8go1Qo) | [Proyecto final en Replit](https://replit.com/@your-final-java) ← ¡Guarda y comparte!
 
 ## Lección 6 — Consejos y Próximos Pasos *(10 min)*
 
@@ -401,7 +401,7 @@ Has construido un juego completo desde cero. Dominaste:
 - La curiosidad supera al talento
 - Mantén tu proyecto en GitHub
 - ¡Sigue construyendo!
-> 🔗 [Ver la lección](https://www.youtube.com/watch?v=example-link6) | [Compartir tu trabajo](https://forms.gle/your-form)
+> 🔗 [Ver la lección](https://www.youtube.com/watch?v=Dk6IU8W7Hh0) | [Compartir tu trabajo](https://forms.gle/your-form)
 
 ---
 
